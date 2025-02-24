@@ -13,28 +13,28 @@
 ## 🚀 Technologies I use
 
 **🔢 Data Science & Machine Learning:**  
-Pandas, Numpy, Seaborn, Matplotlib, RapidFuzz, NLP, KNN
+Pandas | Numpy | Seaborn | Matplotlib | RapidFuzz | NLP | KNN
 
 **⚙️ Backend:**  
 Python, PHP, SQL, Flask, Streamlit
 
 **🎨 Frontend:**  
-JavaScript, TypeScript, React, Next.js, Vue.js, jQuery
+JavaScript | TypeScript | React | Next.js | Vue.js | jQuery
 
 **💡 Web Styling:**  
-HTML, HTL, CSS, SCSS, SASS
+HTML | HTL | CSS | SCSS | SASS
 
 **🧪 Testing:**  
-Cypress, Jest
+Cypress | Jest
 
 **🚀 Version Control & Deployment:**  
-Git, GitHub, Gitflow, Render
+Git | GitHub | Gitflow | Render
 
 **📋 CMS:**  
-AEM, WordPress
+AEM | WordPress
 
 **🎨 Design:**  
-Figma, Adobe XD, Photoshop, Illustrator, InDesign
+Figma | Adobe XD | Photoshop | Illustrator | InDesign
 
 ---
 
