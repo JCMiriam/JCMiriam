@@ -11,7 +11,6 @@
 ---
 
 ## 🚀 Technologies I use
-
 **🔢 Data Science & Machine Learning:**  
 Pandas | Numpy | Seaborn | Matplotlib | RapidFuzz | NLP | KNN
 
@@ -39,7 +38,6 @@ Figma | Adobe XD | Photoshop | Illustrator | InDesign
 ---
 
 ## 🌟 Featured Projects
-
 **🎵 [MoodTune](https://github.com/JCMiriam/MoodTune)** — *Playlist recommender based on user mood*  
 - Machine Learning models (KNN & NLP) for music recommendations.
 - Backend with Flask, Frontend using React + TypeScript + Vite + SASS.
@@ -48,7 +46,6 @@ Figma | Adobe XD | Photoshop | Illustrator | InDesign
 ---
 
 ## 📈 Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCMiriam&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCMiriam&layout=compact&theme=radical)
 
