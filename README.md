@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Miriam Jurado Cebrián!
+# 👋 Hi there, I'm Miriam Jurado!
 
 💡 *Data Scientist* with a solid experience as a Web Developer, passionate about crafting creative and functional solutions, merging the power of **Machine Learning** with impactful user experiences.
 
